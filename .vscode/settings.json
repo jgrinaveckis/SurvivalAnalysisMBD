@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=E"
+    ],
+    "python.pythonPath": "C:\\Users\\grina\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
